@@ -1,7 +1,7 @@
 # LeetAI
 
 LeetCode-style practice platform for **AI engineering** interview prep — ML fundamentals, deep learning, LLM systems, RAG, evaluation, and MLOps.
-**Including a mock interview feature.**
+**Including a mock interview feature.** It should create a virtual interviewer first in text only, and later in audio, and finally in video.
 
 ## Status
 
