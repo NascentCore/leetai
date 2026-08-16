@@ -1,6 +1,7 @@
 # LeetAI
 
 LeetCode-style practice platform for **AI engineering** interview prep — ML fundamentals, deep learning, LLM systems, RAG, evaluation, and MLOps.
+**Including a mock interview feature.**
 
 ## Status
 
